@@ -1,6 +1,6 @@
 # CodeWars_URLShortener
 
-NOTE: This task is very important for me - it is the first time I solve Kata level 5 ... and it is not so difficult (!), but I solved it 3 times before this final solution. Every solution was unicate and functional. I had tha same problem each time - limit for testing is 16000 ms (my code was slow). I optimized it and this is my best.
+NOTE: This task is very important for me - it is the first time I solve Kata level 5 ... and it is not so difficult (!), but I solved it 3 times before this final solution. Each solution was unicate and functional. I had tha same problem each time - limit for testing is 16000 ms (my code was slow). I optimized it and this is my best.
 
 https://www.codewars.com/kata/5fee4559135609002c1a1841/java
 
